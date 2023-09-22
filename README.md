@@ -1,5 +1,7 @@
 # Neur-Ally
-**Neur-Ally** is a deep learning model for predicting the regulatory effect of neurologic single nucleotide variations.
+**Neur-Ally** is a deep learning model for predicting the regulatory effect of neurologic single nucleotide variations
+
+![alt text](https://github.com/anilprakash94/neur_ally/blob/main/datasets/neurally.png?raw=true)
 
 
 ## Dependencies
